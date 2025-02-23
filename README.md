@@ -4,5 +4,6 @@ Image Upload
 
 Video Upload
 ![alt text](https://res.cloudinary.com/degqszhtq/image/upload/v1740315112/krwy6cu8nak4ripipf2r.png?raw=true)
-![alt text](https://res.cloudinary.com/degqszhtq/video/upload/v1740314682/svtsmqi5cfwhslhpejw0.mp4?raw=true)
+[![Watch the video](https://res.cloudinary.com/degqszhtq/video/upload/v1740314682/svtsmqi5cfwhslhpejw0.mp4?raw=true)
+
 
